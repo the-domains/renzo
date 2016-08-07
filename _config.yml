@@ -1,4 +1,3 @@
-layout_spectrum: 0.9017703102435917
 typography_spectrum: 0.8683935170993209
 color:
   brandStrength: 0.37287792563438416
@@ -11,5 +10,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.9017703102435917
 name: Renzo
 title: ARUBA
+description: One Happy Island
